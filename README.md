@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Personal Portfolio website](https://deepkshrma.github.io/personalportfolio.github.io/)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://deepkshrma.github.io/personalportfolio.github.io/](https://deepkshrma.github.io/personalportfolio.github.io/)
 
