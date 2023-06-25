@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sharmads2001@gmail.com**
 
-- 📄 Know about my experiences [Latest Resume]([https://drive.google.com/file/d/1026gkvFv5zGMijUtU1SDYsEhW3exGxnD/view?usp=sharing](https://drive.google.com/file/d/1vmRzZii4pwMKVwmJ0aY2n3sySayAkhnR/view?usp=sharing))
+- 📄 Know about my experiences [Latest Resume](https://drive.google.com/file/d/1026gkvFv5zGMijUtU1SDYsEhW3exGxnD/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
