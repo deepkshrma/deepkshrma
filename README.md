@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepkshrma&label=Profile%20views&color=0e75b6&style=flat" alt="deepkshrma" /> </p>
 
-- 🔭 I’m currently working on [Personal Portfolio website](https://deepkshrma.github.io/personalportfolio.github.io/)
+- 🔭 I’m currently working on [Software Quiz Web Application](https://deepkshrma.github.io/Software-Quiz-Web-Application.github.io/)
 
 - 🌱 I’m currently learning **Web Development**
 
