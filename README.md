@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=deepkshrma&label=Profile%20views&color=0e75b6&style=flat" alt="deepkshrma" />
 </p>
 
-- 🔭 I’m currently working on a project: [**Software Quiz Web Application**](https://deepkshrma.github.io/Software-Quiz-Web-Application.github.io/)  
+- 🔭 I’m currently working on a project: [**Mern Technology**]()  
 - 🌱 I’m currently learning: **Full-Stack Web Development (MERN + DevOps)**  
 - 💼 All of my projects: [**My Portfolio Website**](https://deepkshrma.github.io/personalportfolio.github.io/)  
 - 📫 Reach me at: **sharmads2001@gmail.com**  
