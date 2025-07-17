@@ -24,9 +24,6 @@
 
 ---
 
-### 📄 Resume
-
-- [**Click to View My Resume**](https://drive.google.com/file/d/1kr39tmpBLbTR795o75bxP-KY_4bxC9WB/view?usp=sharing)
 
 ---
 
